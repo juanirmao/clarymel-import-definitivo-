@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\JUAN JOSE\\Pictures\\clarymelautoimport definitivo"
+publishOrigin = "default"
+base = "C:\\Users\\JUAN JOSE\\Pictures\\clarymelautoimport definitivo"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
